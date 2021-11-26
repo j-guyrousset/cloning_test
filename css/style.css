@@ -10,3 +10,18 @@ body {
 .container {
   margin:0 200px;
 }
+ /*section title*/
+.title {
+  background-color: #a3a8a3;
+}
+
+/*section lyrics*/
+.lyrics {
+  .song-title{
+    text-align: center;
+    color: red;
+  }
+  .text{
+
+  }
+}
