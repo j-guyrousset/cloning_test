@@ -1,1 +1,12 @@
 
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ccc;
+}
+.container {
+  margin:0 200px;
+}
